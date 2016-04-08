@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Tareas5</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Titulo1">Tareas</string>
+    <string name="Tarea1">Planilla</string>
+
+    <string name="SB">Sueldo Básico :</string>
+    <string name="HT">Horas Trabajadas:</string>
+    <string name="HF">Horas de Faltas:</string>
+    <string name="SuBru">Sueldo Bruto :</string>
+    <string name="Desc">Descuentos :</string>
+    <string name="afp">AFP :</string>
+    <string name="Faltas">Faltas :</string>
+    <string name="Aportes">Aportes :</string>
+
+    <string name="Tarea2">Ventas</string>
+
+    <string name="PU">Precio Unitario :</string>
+    <string name="Cant">Cantidad :</string>
+    <string name="Br">Bruto :</string>
+    <string name="Igv">IGV :</string>
+    <string name="Neto">Neto :</string>
+
+    <string name="Tarea3">Renta</string>
+    <string name="SueldoM">Sueldo Mensual :</string>
+    <string name="UITs"># UITs :</string>
+    <string name="RentaP">Renta a Pagar :</string>
+
+    <string name="Tarea4">Vacaciones</string>
+    <string name="Anio">Años Trabajados :</string>
+    <string name="DOtorg">Dias Otrogados :</string>
+    <string name="DV">Dias de Vacaciones :</string>
+    <string name="Dtotal">Total :</string>
+    <string name="DPendi">Pendientes :</string>
+    
+    <string name="Tarea5">Digital</string>
+    <string name="Elem">Haga click en los elementos que usted necesita :</string>
+    <string name="con">Conforme elija sus opciones añadalas</string>
+    <string name="PW">Pagina Web</string>
+    <string name="H">Hosting</string>
+    <string name="D">Dominio</string>
+    <string name="RS">Redes Sociales</string>
+    <string name="V">Videos</string>
+    <string name="CE">Correo Electronico</string>
+    <string name="Anad">Añadir</string>
+
+    <string name="Fin">Fin</string>
+    <string name="Volver">Volver</string>
+    <string name="Limpiar">Limpiar</string>
+    <string name="Calcular">Calcular</string>
+    <string name="title_activity_tarea1">Tarea1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_tarea2">Tarea2</string>
+    <string name="title_activity_tarea3">Tarea3</string>
+    <string name="title_activity_tarea4">Tarea4</string>
+    <string name="title_activity_tarea5">Tarea5</string>
+
+</resources>
