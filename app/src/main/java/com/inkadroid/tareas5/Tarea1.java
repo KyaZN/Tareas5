@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 public class Tarea1 extends MainActivity {
 
-    private EditText edtSB, edtHT, edtHF;
+    private EditText edtSB1, edtHT, edtHF;
     private TextView txtSuBru, txtFondo, txtComi , txtPS , txtFaltas, txtAport;
 
     @Override
@@ -18,7 +18,7 @@ public class Tarea1 extends MainActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tarea1);
 
-        edtSB = (EditText) findViewById(R.id.edtSB);
+        edtSB1 = (EditText) findViewById(R.id.edtSB);
         edtHT = (EditText) findViewById(R.id.edtHT);
         edtHF = (EditText) findViewById(R.id.edtHF);
         txtFondo = (TextView) findViewById(R.id.txtFondo);
@@ -55,7 +55,7 @@ public class Tarea1 extends MainActivity {
     public void calc(View view){
 
         try {
-            double s = Double.parseDouble(edtSB.getText().toString());
+            double s = Double.parseDouble(edtSB1.getText().toString());
             double ht = Double.parseDouble(edtHT.getText().toString());
 
             //calcular el sueldo bruto
@@ -86,7 +86,7 @@ public class Tarea1 extends MainActivity {
     }
 
     public void limpiar(View view) {
-        edtSB.setText("");
+        edtSB1.setText("");
         edtHT.setText("");
         edtHF.setText("");
         txtFondo.setText("Fondo");
